@@ -9,6 +9,6 @@ Ole-Kenneth Bratholt
 - [Twitter](https://twitter.com/olekenneth)
 - [LinkedIn](https://linkedin.com/in/olekenneth)
 
-## GPG
+### GPG
 - Public key ID: **D708115F**
 - [Public key](/olekenneth.gpg)
