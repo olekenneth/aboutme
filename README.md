@@ -10,4 +10,5 @@ Ole-Kenneth Bratholt
 - [LinkedIn](https://linkedin.com/in/olekenneth)
 
 ## GPG
-- [GPG file](/olekenneth.gpg)
+- Public key ID: **D708115F**
+- [Public key](/olekenneth.gpg)
