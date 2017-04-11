@@ -15,3 +15,6 @@ Ole-Kenneth Bratholt
 ### GPG
 - Public key ID: **D708115F**
 - [Public key](/olekenneth.gpg)
+
+### SSH
+- [Public key](/gpg_rsa.pub)
