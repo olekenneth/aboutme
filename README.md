@@ -17,4 +17,4 @@ Ole-Kenneth Bratholt
 - [Public key](/olekenneth.gpg)
 
 ### SSH
-- [Public key](/gpg_rsa.pub)
+- [Public key](/id_rsa.pub)
